@@ -3,10 +3,10 @@
     font-family: "Montserrat-Bold";
     font-family: "PTSerif-Regular";
     font-family: "Couture-bold";
-    src: url("/fonts/Montserrat-Regular.ttf");
-    src: url(/fonts/Montserrat-Bold.ttf);
-    src: url(/fonts/PTSerif-Regular.ttf);
-    src: url(/fonts/couture-bld.otf);
+    src: url(fonts/Montserrat-Regular.ttf);
+    src: url(fonts/Montserrat-Bold.ttf);
+    src: url(fonts/PTSerif-Regular.ttf);
+    src: url(fonts/couture-bld.otf);
 }
 * {
     box-sizing: border-box;
@@ -18,7 +18,7 @@
 .container__header {
     min-height: 690px;
     padding-top: 40px;
-    background-image: url(/img/automotive-header-backgroundpng.png);
+    background-image: url(img/automotive-header-backgroundpng.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
